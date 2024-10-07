@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34018.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ToggleBallCam", "ToggleBallCam.vcxproj", "{DCBF6A16-D6FA-4CFB-95D8-8F8029F41659}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCBF6A16-D6FA-4CFB-95D8-8F8029F41659}.Release|x64.ActiveCfg = Release|x64
+		{DCBF6A16-D6FA-4CFB-95D8-8F8029F41659}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {65E2AEA7-E565-4A45-A18D-61A537A6FEE9}
+	EndGlobalSection
+EndGlobal
